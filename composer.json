@@ -1,0 +1,8 @@
+{
+	"name": "jazz/framework",
+	"autoload": {
+		"psr-0": {
+			"Jazz\\Framework": "src"
+		}
+	}
+}
